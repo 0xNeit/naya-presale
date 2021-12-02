@@ -1,0 +1,57 @@
+.pre-sale-progress-section{
+    padding: 4% 7%;
+    background: #261E35;
+    color: #fff;
+}
+
+.pre-sale-progress-section h3{
+    font-size: 2.813rem;
+    text-align: center;
+    font-weight: 600;
+    font-family: "Poppins", serif;
+    margin-bottom: 3rem;
+}
+
+.pre-sale-progress-section h5{
+    font-size: 1.563rem;
+    font-weight: 600;
+    font-family: "Poppins", serif;
+}
+
+.pre-sale-progress-section img{
+    width: 100%;
+}
+
+.pre-sale-progress-section p{
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: "Poppins", serif;
+    opacity: 50%;
+    margin: 0.5rem 0;
+}
+
+@media screen and (max-width: 600px) {
+    .pre-sale-progress-section{
+        padding: 4% 4%;
+        width: 100%;
+    }
+
+    .pre-sale-progress-section img{
+        width: 100%;
+    }
+
+    .pre-sale-progress-section h3{
+        font-size: 2rem;
+        margin-bottom: 3rem;
+        text-align: left;
+    }
+
+    .pre-sale-progress-section h5{
+        font-size: 1rem;
+    }
+
+    .pre-sale-progress-section p{
+        font-size: 0.9rem;
+        margin: 0.5rem 0;
+    }
+}

@@ -1,0 +1,6 @@
+@media screen and (max-width: 600px) {
+    .button{
+        margin: 1rem auto;
+        width: 100%
+    }
+}
